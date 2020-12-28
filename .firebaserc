@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "apparel-masons": {
+      "hosting": {
+        "trident": [
+          "apparel-masons"
+        ]
+      }
+    }
+  }
+}
